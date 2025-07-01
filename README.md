@@ -1,4 +1,4 @@
-# 📘 EDX – CS50's Introduction to Artificial Intelligence with Python
+# 📘 EDX – Harvard CS50's Introduction to Artificial Intelligence with Python
 
 ## Sobre o repositório
 Projetos desenvolvidos durante o curso CS50’s AI with Python, da plataforma edX.
